@@ -49,19 +49,23 @@
   <ItemGroup>
     <Reference Include="Autodesk.UI.Windows, Version=3.2.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\Program Files\Autodesk\Revit 2024\Autodesk.UI.Windows.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\Autodesk\Revit 2024\Autodesk.UI.Windows.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="RevitAPI, Version=24.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\Program Files\Autodesk\Revit 2024\RevitAPI.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\Autodesk\Revit 2024\RevitAPI.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="RevitAPIIFC, Version=24.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\Program Files\Autodesk\Revit 2024\RevitAPIIFC.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\Autodesk\Revit 2024\RevitAPIIFC.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="RevitAPIUI, Version=24.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\Program Files\Autodesk\Revit 2024\RevitAPIUI.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\Autodesk\Revit 2024\RevitAPIUI.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.Composition" />
@@ -79,7 +83,8 @@
     </Reference>
     <Reference Include="UserInterfaceUtility, Version=24.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\Program Files\Autodesk\Revit 2024\UserInterfaceUtility.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\Autodesk\Revit 2024\UserInterfaceUtility.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="WindowsBase" />
     <Reference Include="PresentationCore" />
@@ -253,6 +258,7 @@
     <ProjectReference Include="..\Revit.IFC.Export\Revit.IFC.Export.csproj">
       <Project>{bce5141a-291b-4cd8-a69b-7b9345aa00e9}</Project>
       <Name>Revit.IFC.Export</Name>
+      <Private>False</Private>
     </ProjectReference>
   </ItemGroup>
   <Import Project=".\IFCExporterUIOverride.props" />
