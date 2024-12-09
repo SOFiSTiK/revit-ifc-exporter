@@ -112,6 +112,7 @@ namespace Revit.IFC.Export.Exporter
 
             for (int idx = 0; idx < nCouplerQuantity; idx++)
             {
+               PlacementSetter setter = null;
                string instanceGUID = GUIDUtil.GenerateIFCGuidFrom(
                   GUIDUtil.CreateGUIDString(coupler, "Fastener:" + (idx + 1).ToString()));
 
@@ -137,7 +138,19 @@ namespace Revit.IFC.Export.Exporter
 
                Transform trf = coupler.GetCouplerPositionTransform(idx);
 
-               using (PlacementSetter setter = PlacementSetter.Create(exporterIFC, coupler, trf, null))
+               IFCAnyHandle overrideContainerHnd = null;
+               ElementId overrideLevelId = ParameterUtil.OverrideContainmentParameter(exporterIFC, coupler, out overrideContainerHnd);
+
+               if (overrideLevelId == ElementId.InvalidElementId)
+               {
+                  setter = PlacementSetter.Create(exporterIFC, coupler, trf, null);
+               }
+               else
+               {
+                  setter = PlacementSetter.Create(exporterIFC, coupler, trf, null, overrideLevelId, overrideContainerHnd);
+               }
+
+               using (setter)
                {
                   IFCAnyHandle instanceHandle = null;
                   IFCExportInfoPair exportMechFastener = new IFCExportInfoPair(IFCEntityType.IfcMechanicalFastener, ifcEnumType);
