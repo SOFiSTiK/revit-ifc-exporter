@@ -2,3 +2,15 @@ C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\Revit.IFC.Comm
 C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\Revit.IFC.Common\Revit.IFC.Common.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\Revit.IFC.Common\Revit.IFC.Common.csproj.CoreCompileInputs.cache
 C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\Revit.IFC.Common\Revit.IFC.Common.sourcelink.json
+C:\Users\ag\source\repos\revit-ifc-exporter\Source\Revit.IFC.Common\bin\x64\Debug\Revit.IFC.Common.dll
+C:\Users\ag\source\repos\revit-ifc-exporter\Source\Revit.IFC.Common\bin\x64\Debug\Revit.IFC.Common.pdb
+C:\Users\ag\source\repos\revit-ifc-exporter\Source\Revit.IFC.Common\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\ag\source\repos\revit-ifc-exporter\Source\Revit.IFC.Common\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\ag\source\repos\revit-ifc-exporter\Source\Revit.IFC.Common\bin\x64\Debug\RevitAPI.dll
+C:\Users\ag\source\repos\revit-ifc-exporter\Source\Revit.IFC.Common\bin\x64\Debug\RevitAPIIFC.dll
+C:\Users\ag\source\repos\revit-ifc-exporter\Source\Revit.IFC.Common\bin\x64\Debug\RevitAPIFoundation.dll
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\Revit.IFC.Common\Revit.IF.4E53D487.Up2Date
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\Revit.IFC.Common\Revit.IFC.Common.dll
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\Revit.IFC.Common\refint\Revit.IFC.Common.dll
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\Revit.IFC.Common\Revit.IFC.Common.pdb
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\Revit.IFC.Common\ref\Revit.IFC.Common.dll

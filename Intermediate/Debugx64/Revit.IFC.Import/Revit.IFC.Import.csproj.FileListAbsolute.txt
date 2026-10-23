@@ -4,3 +4,15 @@ C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\Revit.IFC.Impo
 C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\Revit.IFC.Import\Revit.IFC.Import.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\Revit.IFC.Import\Revit.IFC.Import.csproj.CoreCompileInputs.cache
 C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\Revit.IFC.Import\Revit.IFC.Import.sourcelink.json
+C:\Users\ag\source\repos\revit-ifc-exporter\Source\Revit.IFC.Import\bin\x64\Debug\Revit.IFC.Import.dll
+C:\Users\ag\source\repos\revit-ifc-exporter\Source\Revit.IFC.Import\bin\x64\Debug\Revit.IFC.Import.pdb
+C:\Users\ag\source\repos\revit-ifc-exporter\Source\Revit.IFC.Import\bin\x64\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\ag\source\repos\revit-ifc-exporter\Source\Revit.IFC.Import\bin\x64\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\ag\source\repos\revit-ifc-exporter\Source\Revit.IFC.Import\bin\x64\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\ag\source\repos\revit-ifc-exporter\Source\Revit.IFC.Import\bin\x64\Debug\RevitAPI.dll
+C:\Users\ag\source\repos\revit-ifc-exporter\Source\Revit.IFC.Import\bin\x64\Debug\RevitAPIIFC.dll
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\Revit.IFC.Import\Revit.IF.E9C99182.Up2Date
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\Revit.IFC.Import\Revit.IFC.Import.dll
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\Revit.IFC.Import\refint\Revit.IFC.Import.dll
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\Revit.IFC.Import\Revit.IFC.Import.pdb
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\Revit.IFC.Import\ref\Revit.IFC.Import.dll

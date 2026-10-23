@@ -1,3 +1,13 @@
 C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\Revit.IFC.Import.Core\Revit.IFC.Import.Core.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\Revit.IFC.Import.Core\Revit.IFC.Import.Core.csproj.CoreCompileInputs.cache
 C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\Revit.IFC.Import.Core\Revit.IFC.Import.Core.sourcelink.json
+C:\Users\ag\source\repos\revit-ifc-exporter\Source\Revit.IFC.Import.Core\bin\x64\Debug\Revit.IFC.Import.Core.dll
+C:\Users\ag\source\repos\revit-ifc-exporter\Source\Revit.IFC.Import.Core\bin\x64\Debug\Revit.IFC.Import.Core.pdb
+C:\Users\ag\source\repos\revit-ifc-exporter\Source\Revit.IFC.Import.Core\bin\x64\Debug\RevitAPI.dll
+C:\Users\ag\source\repos\revit-ifc-exporter\Source\Revit.IFC.Import.Core\bin\x64\Debug\RevitAPIFoundation.dll
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\Revit.IFC.Import.Core\Revit.IFC.Import.Core.csproj.AssemblyReference.cache
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\Revit.IFC.Import.Core\Revit.IF.5BFC2AA0.Up2Date
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\Revit.IFC.Import.Core\Revit.IFC.Import.Core.dll
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\Revit.IFC.Import.Core\refint\Revit.IFC.Import.Core.dll
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\Revit.IFC.Import.Core\Revit.IFC.Import.Core.pdb
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\Revit.IFC.Import.Core\ref\Revit.IFC.Import.Core.dll
