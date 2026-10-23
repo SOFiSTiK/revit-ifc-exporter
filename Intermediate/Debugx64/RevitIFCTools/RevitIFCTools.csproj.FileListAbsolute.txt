@@ -1,0 +1,8 @@
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\RevitIFCTools\RevitIFCTools.csproj.AssemblyReference.cache
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\RevitIFCTools\GeneratePsetDefWin.g.cs
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\RevitIFCTools\IFCEntityListWin.g.cs
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\RevitIFCTools\MainWindow.g.cs
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\RevitIFCTools\ParameterExpr\ExprTester.g.cs
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\RevitIFCTools\App.g.cs
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\RevitIFCTools\RevitIFCTools_MarkupCompile.cache
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\RevitIFCTools\RevitIFCTools_MarkupCompile.lref

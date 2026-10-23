@@ -1,0 +1,5 @@
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\IFCExporterUIOverride\IFCExporterUIOverride.csproj.AssemblyReference.cache
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\IFCExporterUIOverride\COBieCompanyInfoTab.g.cs
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\IFCExporterUIOverride\COBieProjectInfoTab.g.cs
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\IFCExporterUIOverride\IFCExporterUIOverride_MarkupCompile.cache
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\IFCExporterUIOverride\IFCExporterUIOverride_MarkupCompile.lref

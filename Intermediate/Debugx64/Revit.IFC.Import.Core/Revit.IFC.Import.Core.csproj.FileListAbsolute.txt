@@ -1,0 +1,3 @@
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\Revit.IFC.Import.Core\Revit.IFC.Import.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\Revit.IFC.Import.Core\Revit.IFC.Import.Core.csproj.CoreCompileInputs.cache
+C:\Users\ag\source\repos\revit-ifc-exporter\Intermediate\Debugx64\Revit.IFC.Import.Core\Revit.IFC.Import.Core.sourcelink.json
