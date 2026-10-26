@@ -196,3 +196,11 @@ FakesAssemblies/
 *.sig
 
 **/Intermediate/
+/Intermediate/Debugx64/IFCExporterUIOverride/de/IFCExporterUIOverride.resources.dll
+/Intermediate/Debugx64/IFCExporterUIOverride/fr/IFCExporterUIOverride.resources.dll
+/Intermediate/Debugx64/IFCExporterUIOverride/IFCExporterUIOverride.dll
+/Intermediate/Debugx64/IFCExporterUIOverride/IFCExporterUIOverride.sourcelink.json
+/Intermediate/Debugx64/Revit.IFC.Common/Revit.IFC.Common.dll
+/Intermediate/Debugx64/Revit.IFC.Common/Revit.IFC.Common.sourcelink.json
+/Intermediate/Debugx64/RevitIFCTools/RevitIFCTools.dll
+/Intermediate/Debugx64/RevitIFCTools/RevitIFCTools.sourcelink.json
