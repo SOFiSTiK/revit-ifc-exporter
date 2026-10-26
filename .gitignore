@@ -194,3 +194,5 @@ FakesAssemblies/
 *.ide-wal
 .vs/
 *.sig
+
+**/Intermediate/
